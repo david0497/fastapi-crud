@@ -1,0 +1,4 @@
+pyenv/
+activate
+__pycache__/
+.settings/org.eclipse.core.resources.prefs
